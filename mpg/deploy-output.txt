@@ -1,0 +1,2 @@
+INFO:google.cloud.aiplatform.models:Creating Model
+INFO:google.cloud.aiplatform.models:Create Model backing LRO: projects/519046385050/locations/us-central1/models/8914703938565963776/operations/1878239157600387072
